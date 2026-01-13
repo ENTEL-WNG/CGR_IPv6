@@ -24,3 +24,6 @@ This file contains the main c code that invokes the functions in the CGR library
 gcc Prova_pk_ip.c -o Prova_pk_ip $(python3-config --cflags --ldflags --embed)
 ./Prova_pk_ip
 ```
+
+## Funding
+This work is partially supported by Spanish MCIN/AEI/ 10.13039/501100011033/FEDER/UE through project PID2023-146378NB-I00.
