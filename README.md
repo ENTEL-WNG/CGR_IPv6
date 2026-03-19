@@ -27,6 +27,7 @@ gcc Prova_pk_ip.c -o Prova_pk_ip $(python3-config --cflags --ldflags --embed)
 
 ## AUTHORS
 Cèlia Torras Pérez celia.torras@estudiantat.upc.edu — Initial author and main developer
+
 Anna Calveras anna.calveras@upc.edu — Project supervisor
 
 ## Funding
